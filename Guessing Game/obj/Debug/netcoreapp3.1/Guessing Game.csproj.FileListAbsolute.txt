@@ -1,0 +1,12 @@
+D:\Desktop Files\Because I'm Batman\Console Apps\Guessing Game\obj\Debug\netcoreapp3.1\Guessing Game.AssemblyInfoInputs.cache
+D:\Desktop Files\Because I'm Batman\Console Apps\Guessing Game\obj\Debug\netcoreapp3.1\Guessing Game.AssemblyInfo.cs
+D:\Desktop Files\Because I'm Batman\Console Apps\Guessing Game\obj\Debug\netcoreapp3.1\Guessing Game.csproj.CoreCompileInputs.cache
+D:\Desktop Files\Because I'm Batman\Console Apps\Guessing Game\bin\Debug\netcoreapp3.1\Guessing Game.exe
+D:\Desktop Files\Because I'm Batman\Console Apps\Guessing Game\bin\Debug\netcoreapp3.1\Guessing Game.deps.json
+D:\Desktop Files\Because I'm Batman\Console Apps\Guessing Game\bin\Debug\netcoreapp3.1\Guessing Game.runtimeconfig.json
+D:\Desktop Files\Because I'm Batman\Console Apps\Guessing Game\bin\Debug\netcoreapp3.1\Guessing Game.runtimeconfig.dev.json
+D:\Desktop Files\Because I'm Batman\Console Apps\Guessing Game\bin\Debug\netcoreapp3.1\Guessing Game.dll
+D:\Desktop Files\Because I'm Batman\Console Apps\Guessing Game\bin\Debug\netcoreapp3.1\Guessing Game.pdb
+D:\Desktop Files\Because I'm Batman\Console Apps\Guessing Game\obj\Debug\netcoreapp3.1\Guessing Game.dll
+D:\Desktop Files\Because I'm Batman\Console Apps\Guessing Game\obj\Debug\netcoreapp3.1\Guessing Game.pdb
+D:\Desktop Files\Because I'm Batman\Console Apps\Guessing Game\obj\Debug\netcoreapp3.1\Guessing Game.genruntimeconfig.cache
